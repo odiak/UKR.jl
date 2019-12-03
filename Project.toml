@@ -1,0 +1,9 @@
+name = "UKR"
+uuid = "aab1f955-7652-44a6-9f9f-a2388cb76e10"
+authors = ["Kaido Iwamoto <h6824.kaido@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
